@@ -2,7 +2,7 @@
 Power BI dashboard built from cleaned excel data to visualize store -level sales and product insights
 # Blinkit Store Analysis (Data Analytics Project)
 
-This Business Analytics project focuses on analyzing sales performance for a Blinkit-style convenience store chain using Power BI. The goal is to uncover insights about customer preferences, outlet efficiency, and product performance to assist in data-driven business decisions.
+This project focuses on analyzing sales performance for a Blinkit-style convenience store chain using Power BI. The goal is to uncover insights about customer preferences, outlet efficiency, and product performance to assist in data-driven business decisions.
 
 ## 📊 Tools Used
 - *Excel:* Data preprocessing and transformation
@@ -44,9 +44,3 @@ This Business Analytics project focuses on analyzing sales performance for a Bli
 - DAX calculations for sales metrics and rating analysis
 - Interactive storytelling through modern dashboard visuals
 
-## 📌 Project Goal
-
-The aim is to assist business managers in understanding what drives product performance across different cities and store formats, helping them take action on:
-- Inventory decisions
-- Pricing and promotion
-- Expansion strategies
